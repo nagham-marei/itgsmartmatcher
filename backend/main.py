@@ -26,8 +26,8 @@ import google.generativeai as genai
 # ======================================
 # CONFIG
 # ======================================
-GEMINI_KEY = "AIzaSyCEgyLwLAdzL1CW6CMGCEwiz2TPm_U1BHU"
-JINA_KEY   = "jina_9bc741d0ed994a1b9a3fcb6610c989adihydrnvVL0L0Ek8cpTfzq1gWtQW6"
+GEMINI_KEY = ""
+JINA_KEY   = ""
 
 CV_EMBEDDINGS_PATH = r"C:\Users\user\Downloads\my_project\backend\data\cv_embeddings.npy"
 CV_INDEX_PATH      = r"C:\Users\user\Downloads\my_project\backend\data\cv_index.faiss"
